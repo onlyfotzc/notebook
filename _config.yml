@@ -197,6 +197,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  teachings:
+    output: true
+    premalink: /:collection/:title/
 
 announcements:
   enabled: true
