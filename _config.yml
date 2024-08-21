@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Derek de notebook # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: a corner, passionate, quiet, secretive, evil, yet not losing oneself.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
