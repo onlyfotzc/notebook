@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
-display_categories: [work, fun]
+display_categories: [JAVA, Python]
 horizontal: false
 ---
 
@@ -24,14 +24,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% include teaching_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include teaching.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -50,14 +50,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% include teaching_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include teaching.liquid %}
     {% endfor %}
   </div>
   {% endif %}
