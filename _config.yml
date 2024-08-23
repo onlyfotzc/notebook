@@ -169,10 +169,10 @@ disqus_shortname: derekddd # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@djyppoik/feed
   - name: Google Blog
     posts:
-      - url: #
+      - url: https://medium.com/swlh/i-asked-google-gemini-to-come-up-with-business-ideas-not-found-elsewhere-i-got-blown-away-2d8aa9a5f125
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
