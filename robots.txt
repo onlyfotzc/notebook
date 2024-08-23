@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://onlyforzc.github.ionotebook/sitemap.xml
+Sitemap: https://onlyfotzc.github.io/sitemap.xml
