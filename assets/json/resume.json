@@ -57,22 +57,22 @@
   ],
   "publications": [
     {
-      "name": "移动应用开发与软件测试基础",
-      "publisher": "#",
+      "name": "Mobile Application Development and Software Testing Fundamentals",
+      "publisher": "A press",
       "releaseDate": "2019-06-30",
       "url": "#",
-      "summary": "Mobile Application Development and Software Testing Fundamentals"
+      "summary": "Mobile Application Development and Software Testing Fundamentals."
     },
     {
-      "name": "Android应用开发",
-      "publisher": "#",
+      "name": "Android Application Development I",
+      "publisher": "B press",
       "releaseDate": "2020-03-18",
       "url": "#",
-      "summary": "Android Application Development I"
+      "summary": "Android Application Development I."
     },
     {
-      "name": "Android应用开发（第二版）",
-      "publisher": "#",
+      "name": "Android Application Development II",
+      "publisher": "B press",
       "releaseDate": "2021-03-20",
       "url": "#",
       "summary": "Android Application Development II."
