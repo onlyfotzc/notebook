@@ -18,8 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi all, I'm a technology enthusiast born in the 1980s. I self-taught web development in college, laying the groundwork for my career. My exploration in computer science was thorough, with a solid foundation during my undergraduate studies and further in-depth research into cutting-edge technologies during my graduate studies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I began my technical journey with C++ development and then shifted to the challenging and opportunity-rich field of smartphone software testing. Here, I not only honed my testing skills but also gained a comprehensive understanding of the importance of software quality.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The evolution of technology led me to the field of automated testing, where my passion and expertise have achieved notable success. Currently, I lead the GMS certification team, using my professional skills to continuously build a technically proficient team.
+
+I am passionate about technology, keeping up with industry trends, and continuously learning and practicing. I believe that ongoing learning and innovation can drive technological development and bring new possibilities to the world.
+
+On my notebook, I share my learning and work experiences, as well as insights into the latest technology trends. I hope my sharing can inspire more people's passion for technology and explore the future of technology together.
+
+Welcome to my world of technology, let's learn, grow, and make progress together!
