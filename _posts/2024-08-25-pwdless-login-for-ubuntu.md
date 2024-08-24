@@ -5,7 +5,6 @@ date: 2024-08-25 23:02:13
 description: Ubuntu实现免密登录设置
 tags: ubuntu tech
 categories: tech
-
 ---
 
 实验室电脑全部都是Ubuntu系统，每台电脑由各自负责的同学负责，导致每台执行服务器的文件存储路径完全不一致，对于新手来说会导致文件找不到体验非常不好。
