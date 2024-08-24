@@ -3,8 +3,8 @@ layout: post
 title: Intranet File Synchronization Solution
 date: 2024-08-24 21:02:13
 description: 实现一种基于ubuntu系统的内网文件同步系统方案思路
-tags: ubuntu,tech
-categories: inspiration,project
+tags: ubuntu tech
+categories: inspiration project
 
 toc:
   - name: 背景
