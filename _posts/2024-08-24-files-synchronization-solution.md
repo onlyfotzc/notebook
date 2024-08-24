@@ -5,7 +5,6 @@ date: 2024-08-24 21:02:13
 description: 实现一种基于ubuntu系统的内网文件同步系统方案思路
 tags: ubuntu,tech
 categories: inspiration,project
-tabs: true
 
 toc:
   - name: 背景
@@ -29,119 +28,10 @@ toc:
 - 实现 
 - 验证
 ## 背景
-实验室电脑多，但每台执行器角色的服务器目前都是由个人自行管理，导致每台电脑的测试工具存储目录各有不同，新手或是其他人无法知道别人的测试工具存储目录，另外，测试工具也是个人手动从服务器下载，
+实验室电脑多，但每台执行器角色的服务器目前都是由个人自行管理，导致每台电脑的测试工具存储目录各有不同，新手或是其他人无法知道别人的测试工具存储目录，另外，测试工具也是个人手动从服务器下载。
+需要有一种方案，能够让执行服务器能够自动从服务器同步最新的测试工具，并且存放到执行服务器的指定目录，实现测试工具自动同步，统一存储的场景
 
 ## 思路
+1.使用Jenkins master slaver方案，搭建一台Jenkins服务器充分master角色，实验室内其他执行服务器充分slaver角色。可以通过人工或是定时的方式启动测试工具文件同步方案，实现执行服务器中的测试工具文件与中心服务器的测试工具文件保存一致，且执行服务器中的测试工具文件存储路径一致。
 ## 实现
 ## 验证
-
-## First tabs
-
-To add tabs, use the following syntax:
-
-{% raw %}
-
-```liquid
-{% tabs group-name %}
-
-{% tab group-name tab-name-1 %}
-
-Content 1
-
-{% endtab %}
-
-{% tab group-name tab-name-2 %}
-
-Content 2
-
-{% endtab %}
-
-{% endtabs %}
-```
-
-{% endraw %}
-
-With this you can generate visualizations like:
-
-{% tabs log %}
-
-{% tab log php %}
-
-```php
-var_dump('hello');
-```
-
-{% endtab %}
-
-{% tab log js %}
-
-```javascript
-console.log("hello");
-```
-
-{% endtab %}
-
-{% tab log ruby %}
-
-```javascript
-pputs 'hello'
-```
-
-{% endtab %}
-
-{% endtabs %}
-
-## Another example
-
-{% tabs data-struct %}
-
-{% tab data-struct yaml %}
-
-```yaml
-hello:
-  - "whatsup"
-  - "hi"
-```
-
-{% endtab %}
-
-{% tab data-struct json %}
-
-```json
-{
-  "hello": ["whatsup", "hi"]
-}
-```
-
-{% endtab %}
-
-{% endtabs %}
-
-## Tabs for something else
-
-{% tabs something-else %}
-
-{% tab something-else text %}
-
-Regular text
-
-{% endtab %}
-
-{% tab something-else quote %}
-
-> A quote
-
-{% endtab %}
-
-{% tab something-else list %}
-
-Hipster list
-
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-{% endtab %}
-
-{% endtabs %}
