@@ -78,4 +78,5 @@ sudo java -jar /usr/share/jenkins/slave.jar
    ##### 新建节点
    ##### 配置节点
 https://www.cnblogs.com/lcj0703/p/12268504.html
+https://blog.csdn.net/hehedadaq/article/details/115584036
 ## 验证
