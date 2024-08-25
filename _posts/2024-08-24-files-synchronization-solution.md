@@ -6,7 +6,11 @@ description: 实现一种基于ubuntu系统的内网文件同步系统方案思�
 tags: ubuntu tech
 categories: inspiration project
 featured: true
-
+authors:
+  - name: Derek d
+    url: "https://onlyfotzc.github.io"
+    affiliations:
+      name: 
 toc:
   - name: Background
   - name: Concept
