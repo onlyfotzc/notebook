@@ -6,6 +6,7 @@ description: 实现一种基于ubuntu系统的内网文件同步系统方案思�
 tags: ubuntu tech
 categories: inspiration project
 tabs: true
+featured: true
 
 toc:
   - name: 背景
