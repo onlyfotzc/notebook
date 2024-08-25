@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Intranet File Synchronization Solution
 date: 2024-08-24 21:02:13
 description: 实现一种基于ubuntu系统的内网文件同步系统方案思路
@@ -13,21 +13,6 @@ toc:
   - name: 实现
   - name: 验证
 
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
-  .fake-img p {
-    font-family: monospace;
-    color: white;
-    text-align: left;
-    margin: 12px 0;
-    text-align: center;
-    font-size: 16px;
-  }
 --- 
 
 实验室电脑全部都是Ubuntu系统，每台电脑由各自负责的同学负责，导致每台执行服务器的文件存储路径完全不一致，对于新手来说会导致文件找不到体验非常不好。
