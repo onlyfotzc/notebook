@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 猫用止疼药止痛关节炎美达佳
+title: 猫用止疼药止痛关节炎美达佳沙斯多芬利尿通胶囊
 date: 2025-08-25 22:44:00
 description: 猫用止疼药物和利尿药物
 tags: formatting images
@@ -20,7 +20,7 @@ thumbnail: assets/img/mdj-cat.jpg
     </div>
 </div>
 <div class="caption">
-    止疼：美达佳；利尿：xxx.
+    止疼：美达佳 120元；利尿：沙斯多芬利尿通胶囊8*14 112元
 </div>
 
 
