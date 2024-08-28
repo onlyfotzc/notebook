@@ -7,6 +7,7 @@ tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/mdj.jpg
 ---
+
 layout: post
 title: a post with images
 date: 2015-05-15 21:01:00
