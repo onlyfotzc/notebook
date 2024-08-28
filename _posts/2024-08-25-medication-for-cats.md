@@ -1,6 +1,6 @@
 ---
 layout: post
-title: medication for cats
+title: a post with images
 date: 2024-08-28 21:01:00
 description: this is what included images could look like
 tags: formatting images
