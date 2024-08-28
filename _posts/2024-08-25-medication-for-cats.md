@@ -5,7 +5,7 @@ date: 2024-08-28 21:01:00
 description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/mdj.jpg
+thumbnail: assets/img/9.jpg
 ---
 
 layout: post
