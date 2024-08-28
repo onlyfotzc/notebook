@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cat pain relief for arthritis with Medajia Sarsas and diuretic capsules
+title: a post with images
 date: 2024-08-28 21:01:00
-description: 猫用止疼药止痛关节炎美达佳沙斯多芬利尿通胶囊
+description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
@@ -13,7 +13,7 @@ date: 2015-05-15 21:01:00
 description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/mdj.jpg
 
 
 This is an example post with image galleries.
