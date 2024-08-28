@@ -6,7 +6,6 @@ description: 猫用止疼药物和利尿药物
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/mdj-cat.jpg
-
 ---
 
 时隔一年，再一次被诊断为尿道感染，开了两种药，一种是利尿的，一种是止疼的.
