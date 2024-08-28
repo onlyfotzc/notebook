@@ -5,7 +5,7 @@ date: 2025-08-25 22:44:00
 description: 猫用止疼药止痛关节炎美达佳沙斯多芬利尿通胶囊
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/mdj-cat.jpg
+thumbnail: assets/img/9.jpg
 ---
 
 时隔一年，再一次被诊断为尿道感染，开了两种药，一种是利尿的，一种是止疼的.
