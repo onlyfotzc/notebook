@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cat pain relief for arthritis with Medajia, Sarsas, and diuretic capsules.
+title: Cat pain relief for arthritis with Medajia Sarsas and diuretic capsules
 date: 2025-08-25 22:44:00
 description: 猫用止疼药止痛关节炎美达佳沙斯多芬利尿通胶囊
 tags: formatting images
