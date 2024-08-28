@@ -47,5 +47,3 @@ The rest of the images in this post are all zoomable, arranged into different mi
         {% include figure.liquid path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-
